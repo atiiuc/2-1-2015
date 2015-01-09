@@ -1,0 +1,9 @@
+H:\2-1-2015\Database_Student\Database_Student\bin\Debug\Database_Student.exe.config
+H:\2-1-2015\Database_Student\Database_Student\bin\Debug\Database_Student.exe
+H:\2-1-2015\Database_Student\Database_Student\bin\Debug\Database_Student.pdb
+H:\2-1-2015\Database_Student\Database_Student\obj\Debug\Database_Student.csprojResolveAssemblyReference.cache
+H:\2-1-2015\Database_Student\Database_Student\obj\Debug\Database_Student.Form1.resources
+H:\2-1-2015\Database_Student\Database_Student\obj\Debug\Database_Student.Properties.Resources.resources
+H:\2-1-2015\Database_Student\Database_Student\obj\Debug\Database_Student.csproj.GenerateResource.Cache
+H:\2-1-2015\Database_Student\Database_Student\obj\Debug\Database_Student.exe
+H:\2-1-2015\Database_Student\Database_Student\obj\Debug\Database_Student.pdb

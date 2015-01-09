@@ -1,0 +1,11 @@
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe.config
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.pdb
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csprojResolveAssemblyReference.cache
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.Properties.Resources.resources
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.SearchStudentUI.resources
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csproj.GenerateResource.Cache
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.exe
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.pdb
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.StudentEntryUI.resources
+E:\ASP.Net\Projects\19-12-14\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.MainUI.resources
